@@ -15,6 +15,12 @@ a {
   a:hover {
     text-decoration: underline; }
 
+span {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
@@ -109,7 +115,7 @@ a {
 .main-content :first-child {
   margin-top: 0; }
 .main-content .social-media {
-  margin:0 auto;
+  font-size: 0.9rem;
   text-align: center;
 }
 .main-content img {
