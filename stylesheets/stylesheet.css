@@ -15,6 +15,7 @@ a {
   a:hover {
     text-decoration: underline; }
 
+/* Verical align */
 span {
   display: inline-block;
   vertical-align: middle;
@@ -117,6 +118,9 @@ span {
 .main-content .social-media {
   font-size: 0.9rem;
   text-align: center;
+}
+.main-content strong {
+  font-weight: 600;
 }
 .main-content img {
   max-width: 100%; }
